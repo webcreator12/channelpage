@@ -18,7 +18,7 @@
   }
   #subscriberCount {
     text-align: center;
-    color: #fff;
+    color: #000;
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 19px;
@@ -27,7 +27,7 @@
     text-align: center;
     font-size: 26px;
     margin-top: -13px;
-    color: #fff;
+    color: #000;
   }
   section .box {
     width: 650px;
